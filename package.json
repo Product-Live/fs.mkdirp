@@ -2,13 +2,13 @@
 	"name": "fs.mkdirp",
 	"version": "1.0.7",
 	"keywords": [],
-	"homepage": "https://github.com/anzerr/fs.mkdirp#readme",
+	"homepage": "https://github.com/Product-Live/fs.mkdirp#readme",
 	"bugs": {
-		"url": "https://github.com/anzerr/fs.mkdirp/issues"
+		"url": "https://github.com/Product-Live/fs.mkdirp/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:anzerr/fs.mkdirp.git"
+		"url": "git@github.com:Product-Live/fs.mkdirp.git"
 	},
 	"license": "MIT",
 	"author": "anzerr",
@@ -21,7 +21,7 @@
 		"extends": "eslint-config-basic"
 	},
 	"devDependencies": {
-		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
+		"eslint-config-basic": "git+https://git@github.com/Product-Live/eslintrc.git"
 	},
 	"engines": {
 		"node": ">= 0.10.0"
