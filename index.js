@@ -1,6 +1,6 @@
 
 const path = require('path'),
-	fs = require('fs.promisify');
+	fs = require('@product-live/fs.promisify');
 
 const mkdir = (dir, option) => {
 	let p = path.resolve(dir);
