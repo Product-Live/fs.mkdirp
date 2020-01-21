@@ -30,7 +30,6 @@ jobs:
         with:
           node-version: 12
           registry-url: https://registry.npmjs.org/
-          scope: '@product-live'
           - run: npm install
           - run: npm publish --access public
             env:
